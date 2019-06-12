@@ -1,3 +1,3 @@
 # Eswasth
 web portal for hospitals
-gghg
+which maintain records of doctors and patients
